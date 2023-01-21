@@ -1,5 +1,5 @@
 package HW5_210123;
-
+/*test*/
 public class HW5_aufg1_4 {
     public static void main(String[] args) {
         int total_num;
