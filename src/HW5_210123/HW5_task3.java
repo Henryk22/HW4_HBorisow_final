@@ -1,4 +1,12 @@
 package HW5_210123;
+/* Дано два числа, например 3 и 56, значение которых хранятся в переменных.
+a)Необходимо составить следующие текстовые строки:
+3 + 56 = 59
+3 – 56 = -53
+3 * 56 = 168.
+Используйте метод StringBuilder.append().
+b)   Замените символ “=” на слово “равно”. Используйте методы StringBuilder.insert(), StringBuilder.deleteCharAt().
+c)   Замените символ “=” на слово “равно”. Используйте методы StringBuilder.replace(). */
 public  class HW5_task3 {
     public static void main(String[] args){
     int b = 3;
