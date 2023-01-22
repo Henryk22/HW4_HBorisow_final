@@ -1,5 +1,4 @@
 package HW5_210123;
-
 public  class HW5_3 {
     public static void main(String[] args){
     int b = 3;
