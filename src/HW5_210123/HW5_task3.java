@@ -1,5 +1,5 @@
 package HW5_210123;
-public  class HW5_3 {
+public  class HW5_task3 {
     public static void main(String[] args){
     int b = 3;
     int c = 53;
